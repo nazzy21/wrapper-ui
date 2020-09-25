@@ -1,0 +1,34 @@
+{
+  "name": "@wrapper/ui",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:nazzy21/wrapper-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/plugin-transform-runtime": "^7.8.3",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0",
+    "htmlparser2": "^4.1.0",
+    "path-to-regexp": "^6.0.0",
+    "react": "^16.12.0",
+    "ua-parser-js": "^0.7.21",
+    "dayjs": "^1.8.28",
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-beautify": "^3.0.0",
+    "gulp-clean": "^0.4.0",
+    "through2": "^3.0.1"
+  },
+  "description": ""
+}
